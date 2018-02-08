@@ -1,6 +1,8 @@
 Heroku buildpack: PhantomJS
 =======================
 
+NOTE: this buildpack is changed to suit needs of a private project. Clone at your own risk.
+
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) of PhantomJS(http://phantomjs.org).
 
 Usage
